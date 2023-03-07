@@ -8,7 +8,7 @@ while len(userName) == 0:
 print(f"\nHello, {userName}. We are delighted to meet you!")
 input(f"\nPress the enter key to continue...")
 
-print(f"Let's begin with a few questions to help us on our journey!")
+print(f"\nLet's begin with a few questions to help us on our journey!")
 
 keepPlaying = "yes"
 while keepPlaying.lower() == "yes":
